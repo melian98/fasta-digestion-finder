@@ -1,0 +1,7 @@
+enzyme_1;TA%TGA
+enzyme_2;GAAT%A
+enzyme_3;CA%TAT
+enzyme_4;TGC%GCA
+enzyme_5;TT%AAA
+enzyme_6;G%GGG
+enzyme_7;GAAT%T
